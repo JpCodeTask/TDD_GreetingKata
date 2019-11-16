@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WelcomeTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2019-11-05T14:56:43" hostname="jakub-Inspiron-5379" time="0.059">
+  <properties/>
+  <testcase name="when some names in array uppercase then response is two greetings()" classname="WelcomeTest" time="0.043"/>
+  <testcase name="when array of names has one name then greet me simple()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="when commas are intentional with escape char then  not separate them()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="when name is empty then greet as my friend()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="when name is uppercase then shout()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="when array of names is empty then greet as everyone()" classname="WelcomeTest" time="0.002"/>
+  <testcase name="interpolate array of names into simple greeting()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="interpolate name into simple greeting()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="when array of names has more then two names then separate with commas and 'and'()" classname="WelcomeTest" time="0.001"/>
+  <testcase name="when string in names array is names separated by comma then split()" classname="WelcomeTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
